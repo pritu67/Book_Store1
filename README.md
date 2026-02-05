@@ -140,6 +140,7 @@ URL	Description
 /deleteMyList/{id}	Remove book from My Book List
 
 ⭐Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50647b91-e1ee-4c2a-8f24-5dc59e4539f8" />
 
 ▶️ How to Run the Project
 Clone the repository
