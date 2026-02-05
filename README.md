@@ -140,8 +140,7 @@ URL	Description
 /deleteMyList/{id}	Remove book from My Book List
 
 ⭐Screenshots
-https://github.com/pritu67/Book_Store1/blob/9a0395089b64b2e85cb05ee6c8ae78c9c967b6c2/Screenshot%20(111).png
-
+![image alt](https://github.com/pritu67/Book_Store1/blob/e2ac779a9802e55019a38cddfe56944dedd81f47/Screenshot%20(111).png)
 ▶️ How to Run the Project
 Clone the repository
 Open the project in Spring Tool Suite / IntelliJ / Eclipse
