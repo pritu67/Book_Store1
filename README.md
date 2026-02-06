@@ -11,9 +11,11 @@ This project allows users to:
 
 ---
 ## 🛠️ Screenshots
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1bd18c6e-89b5-4b63-a11b-26e2a19227c5" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f0c667f-0e86-4e75-8588-9cde757296cd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7997cc78-1a63-47c6-a6e4-ffd331691e11" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/570fc6b0-95f6-4011-9bef-d2b55a0df26d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f487c880-9b71-419b-9426-8bd9db7c9380" />
 
 ## 🛠️ Technologies Used
 
