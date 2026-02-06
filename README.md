@@ -146,6 +146,8 @@ Update database credentials in application.properties
 Run the application as Spring Boot App
 Open browser and visit:
 http://localhost:1001
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/745e2f65-df14-42b7-93d3-18d1e2d9afeb" />
+
 
 👩‍💻 Author
 Pritee Kolsure
