@@ -10,6 +10,8 @@ This project allows users to:
 - Remove books from “My Book List”
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1bd18c6e-89b5-4b63-a11b-26e2a19227c5" />
+
 
 ## 🛠️ Technologies Used
 
